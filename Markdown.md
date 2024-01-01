@@ -36,7 +36,9 @@ const a = 10;
 ```
 
 > Idea 1
+
 Agree
 
 > Idea 2
+
 Not agree
